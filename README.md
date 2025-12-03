@@ -1,5 +1,9 @@
 # Claude Synology Manager
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic)](https://claude.ai/code)
+[![Claude Code Projects](https://img.shields.io/badge/Claude%20Code-Projects%20Index-orange)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![GitHub Master Index](https://img.shields.io/badge/GitHub-Master%20Index-green)](https://github.com/danielrosehill/Github-Master-Index)
+
 A workspace repository for Claude Code to manage a Synology NAS. This repo serves as persistent memory and operational context for NAS administration tasks.
 
 ## Purpose
@@ -70,3 +74,7 @@ This repository is designed as a GitHub template. Fork or use as template to cre
 ## License
 
 MIT
+
+---
+
+*To view an index of my Claude Code related projects, [click here](https://github.com/danielrosehill/Claude-Code-Repos-Index).*
